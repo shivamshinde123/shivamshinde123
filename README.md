@@ -19,7 +19,7 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://numpy.org/" target="_blank"> <img src="https://codetorial.net/numpy/_images/numpy_logo.png" alt="Numpy" width="100" height="56"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="Pandas" width="100" height="56"/> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/500px-Pandas_mark.svg.png" alt="Pandas" width="100" height="56"/> </a> 
     <a href="https://matplotlib.org/" target="_blank"> <img src="https://ehikioya.com/wp-content/uploads/2020/02/logo2_compressed.png" alt="Matplotlob" width="100" height="55"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://jehyunlee.github.io/2020/09/09/Python-DS-31-seaborn_upgrade/31-seaborn_upgrade_1.png" alt="Seaborn" width="100" height="55"/> </a>
     <a href="https://public.tableau.com/app/profile/shivam.shinde?authMode=activationSuccess" target="_blank"> <img src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo_2.png?h=c673cd1c&itok=Xie5DAhG" alt="tableau" width="56" height="56"/> </a> 
@@ -27,10 +27,10 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" alt="python-flask" width="48" height="48"/> </a>
+    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/500px-Flask_logo.svg.png" alt="python-flask" width="85" height="48"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://pic2.zhimg.com/v2-f6aec7df156f2f1b302e8a41bb2b4758_b.jpg" width="90" height="90"/> </a>
-    <a href="https://dvc.org/" target="_blank"> <img src="https://dvc.org/social-share.png" alt="data-version-control(dvc)" width="80" height="56"/> </a> 
+    <a href="https://dvc.org/" target="_blank"> <img src="https://dvc.org/social-share.png" width="75" height="65"/>  </a> 
   
 </p>
 
