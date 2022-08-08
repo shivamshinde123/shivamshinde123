@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **MLOPs**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
