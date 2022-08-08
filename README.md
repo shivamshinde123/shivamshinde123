@@ -32,6 +32,7 @@
     <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://pic2.zhimg.com/v2-f6aec7df156f2f1b302e8a41bb2b4758_b.jpg" width="90" height="90"/> </a>
     <a href="https://dvc.org/" target="_blank"> <img src="https://dvc.org/social-share.png" width="75" height="65"/>  </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png" width="75" height="65"/>  </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" width="75" height="65"/>  </a> 
   
 </p>
 
