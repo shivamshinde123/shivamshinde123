@@ -1,18 +1,14 @@
-## Hey Shivam here 👋
+ # <a href="http://shivamdshinde.com/">Shivam Dattatray Shinde</a> :smiley:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivamshinde123/shivamshinde123/main/Shivam%20Shinde.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-
-I am a data science aspirant who loves ML, DL and turning the raw data into impactful insights.
 
  ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Power BI**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
-
-- 📫 How to reach me **ShivamDattatrayShinde@gmail.com**.
 
 - ⚡ Fun fact **I like to ride my bicycle, play games and listen to songs**.
  
@@ -48,7 +44,11 @@ I am a data science aspirant who loves ML, DL and turning the raw data into impa
 <a href="https://github.com/shivamshinde123/github-readme-activity-graph"><img alt="Shivam Shinde's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivamshinde123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p> -->
 
-## Connect me at
+##  Contact Me :speech_balloon:
+[![Linkedin Badge](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamds92722/)](https://www.linkedin.com/in/shivamds92722/)
+[![Twitter Badge](https://img.shields.io/badge/-@ShivamS64852411-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivamS64852411)](https://twitter.com/ShivamS64852411)
+[![Gmail Badge](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivamshinde92722@gmail.com)](mailto:shivamshinde92722@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/)
 
 
 
