@@ -1,7 +1,7 @@
 ## Hey Shivam here 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/shivamshinde123/shivamshinde123/main/Shivam%20Shinde.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a data science aspirant who loves ML, DL and turning the raw data into impactful insights.
