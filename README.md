@@ -15,6 +15,11 @@
 - 💬 Ask me about making attrative visualizations,ML, DL and other tech related stuff.
 
 
+## Topics
+
+Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Series Analysis 
+
+
 ## Tech & Tools Preference
 
 
