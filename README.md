@@ -17,7 +17,7 @@
 
 ## Topics
 
-Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Series Analysis 
+Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Series Analysis | Website Development
 
 
 ## Tech & Tools Preference
