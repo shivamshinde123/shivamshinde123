@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I like to ride my bicycle, play games and listen to songs**.
  
-- 💬 Ask me about making attrative visualizations,ML, DL and other tech related stuff.
+- 💬 Ask me about making attractive visualizations,ML, DL and other tech related stuff.
 
 
 ## Topics
