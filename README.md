@@ -6,7 +6,7 @@
 
  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Power BI**.
+- 🌱 I’m currently learning **Computer Vision**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
