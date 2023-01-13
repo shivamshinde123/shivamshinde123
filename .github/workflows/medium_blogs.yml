@@ -1,1 +1,16 @@
+name: Latest Medium Articles
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
+jobs:
+  update-readme-with-medium-articles:
+    name: Update this repo's README with latest Medium to Articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "Medium-BLOG-LIST"
+          feed_list: "https://medium.com/@shivamshinde92722"
