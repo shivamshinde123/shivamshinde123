@@ -1,5 +1,5 @@
  # <a href="http://shivamdshinde.com/">Shivam Dattatray Shinde</a> :smiley:
-
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivamshinde123/shivamshinde123/main/Shivam%20Shinde.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -13,7 +13,6 @@
 - ⚡ Fun fact **I like to ride my bicycle, play games and listen to songs**.
  
 - 💬 Ask me about making attractive visualizations,ML, DL and other tech related stuff.
-
 
 ## Topics
 
@@ -44,7 +43,7 @@ Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Serie
 </p> -->
 
 ## Latest Blogs
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=shivamshinde92722&limit=3&type=vertical)](https://medium.com/@shivamshinde92722)  
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=shivamshinde92722&limit=5&type=horizontal)](https://medium.com/@shivamshinde92722)  
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamds92722/)](https://www.linkedin.com/in/shivamds92722/)
