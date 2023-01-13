@@ -34,9 +34,9 @@ Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Serie
 <a href="https://github.com/shivamshinde123/github-readme-stats"><img alt="Shivam Shinde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamshinde123&show_icons=true&count_private=true&theme=white&hide_border=false&bg_color=ffffff" /></a>
 </p>
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/shivamshinde123/github-readme-stats"><img alt="Shivam Shinde's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshinde123&langs_count=8&count_private=true&layout=compact&theme=white&hide_border=false&bg_color=ffffff" /></a>
-</p>
+</p> -->
 
 <!-- <p align="left">
 <a href="https://github.com/shivamshinde123/github-readme-activity-graph"><img alt="Shivam Shinde's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivamshinde123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
