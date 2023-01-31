@@ -6,7 +6,7 @@
 
  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Computer Vision**.
+- 🌱 I’m currently learning **Natural Language Processing**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
