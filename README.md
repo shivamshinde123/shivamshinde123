@@ -51,13 +51,6 @@ Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Serie
 <!-- ## Profile views count
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshinde123&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshinde123" /> </p> -->
 
-##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamds92722/)](https://www.linkedin.com/in/shivamds92722/)
-[![Kaggle Badge](https://img.shields.io/badge/-shivamshinde123-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=(https://www.kaggle.com/shivamshinde123))](https://www.kaggle.com/shivamshinde123)
-[![Twitter Badge](https://img.shields.io/badge/-@ShivamS64852411-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivamS64852411)](https://twitter.com/ShivamS64852411)
-[![Gmail Badge](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivamshinde92722@gmail.com)](mailto:shivamshinde92722@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/)
-
 ## Profile views count
 
 <p align='left'>
@@ -65,6 +58,15 @@ Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Serie
 ![](https://komarev.com/ghpvc/?username=shivamshinde123)
   
 </p>
+
+##  Contact Me :speech_balloon:
+[![Linkedin Badge](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamds92722/)](https://www.linkedin.com/in/shivamds92722/)
+[![Kaggle Badge](https://img.shields.io/badge/-shivamshinde123-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=(https://www.kaggle.com/shivamshinde123))](https://www.kaggle.com/shivamshinde123)
+[![Twitter Badge](https://img.shields.io/badge/-@ShivamS64852411-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivamS64852411)](https://twitter.com/ShivamS64852411)
+[![Gmail Badge](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivamshinde92722@gmail.com)](mailto:shivamshinde92722@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/)
+
+
 
 
 Let's connect 👨‍💻 and forge the future together.😁✌
