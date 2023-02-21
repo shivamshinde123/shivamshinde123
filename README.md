@@ -58,6 +58,14 @@ Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Serie
 [![Gmail Badge](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivamshinde92722@gmail.com)](mailto:shivamshinde92722@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/)
 
+## Profile views count
+
+<p align='left'>
+  
+![](https://komarev.com/ghpvc/?username=shivamshinde123)
+  
+</p>
+
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
