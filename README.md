@@ -49,7 +49,7 @@ Statistics | Data Visualization | Machine Learning | Deep Learning | Data Struct
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shivamshinde123?theme=light)
 
 
-## Latest Tech Blogs By Shivam 📢
+## Latest Tech Blogs 📢
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1" alt="Recent Article 1"> 
