@@ -1,7 +1,7 @@
  # <a href="http://shivamdshinde.com/">Shivam Dattatray Shinde</a> :smiley:
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivamshinde123/shivamshinde123/main/Shivam%20Shinde.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="Shivam Shinde2.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
  ## 🙋‍♂️ About Me
