@@ -6,17 +6,17 @@
 
  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Natural Language Processing**.
+- 🌱 I’m currently learning **Data Structures and Algorithms**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- ⚡ Fun fact **I like to ride my bicycle, play games and listen to songs**.
+- ⚡ Fun fact **I like to ride my bicycle, play games and listen to songs**. Recently I have hooked on reading the fantasy novels (Some of the favorites authors: Brandon Sanderson, JK Rowling)
  
 - 💬 Ask me about making attractive visualizations,ML, DL and other tech related stuff.
 
 ## Topics 
 
-Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Series Analysis | Website Development
+Statistics | Data Visualization | Machine Learning | Deep Learning | Data Structure and Algorithms
 
 
 ## Tech & Tools Preference 🧰
@@ -44,13 +44,23 @@ Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Serie
 <a href="https://github.com/shivamshinde123/github-readme-activity-graph"><img alt="Shivam Shinde's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivamshinde123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p> -->
 
+## My LeetCode Stat
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/shivamshinde123?theme=light)
+
 
 ## Latest Blogs 📢
-[![Shivam Shinde's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=shivamshinde92722&limit=8&type=horizontal)](https://medium.com/@shivamshinde92722)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/3" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/4" alt="Recent Article 4"> 
 
 <!-- ## Profile views count
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshinde123&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshinde123" /> </p> -->
 
+<!--
 ## Profile views count
 
 <p align='left'>
@@ -58,13 +68,14 @@ Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Serie
 ![](https://komarev.com/ghpvc/?username=shivamshinde123)
   
 </p>
+-->
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamds92722/)](https://www.linkedin.com/in/shivamds92722/)
 [![Kaggle Badge](https://img.shields.io/badge/-shivamshinde123-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=(https://www.kaggle.com/shivamshinde123))](https://www.kaggle.com/shivamshinde123)
-[![Twitter Badge](https://img.shields.io/badge/-@ShivamS64852411-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivamS64852411)](https://twitter.com/ShivamS64852411)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@ShivamS64852411-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivamS64852411)](https://twitter.com/ShivamS64852411) -->
 [![Gmail Badge](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivamshinde92722@gmail.com)](mailto:shivamshinde92722@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/) -->
 
 
 
