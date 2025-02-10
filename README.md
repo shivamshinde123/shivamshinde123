@@ -24,7 +24,7 @@ Statistics | Data Visualization | Machine Learning | Deep Learning | Data Struct
 <img src = "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">  <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white"> <img src = "https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src = "https://img.shields.io/badge/-Matplotlib-FF6666?style=flat&logoColor=white"> <img src = "https://img.shields.io/badge/-Seaborn-5A20CB?style=flat&logoColor=white"> <img src = "https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-DVC-945DD6?style=flat&logo=DVC&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"><img src = "https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"> <img src = "https://img.shields.io/badge/-Pydantic-000000?style=flat&logoColor=white"> <img src="http://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=Power BI&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 
 
-## 📊 My Github Stats
+<!--## 📊 My Github Stats
 
 <p align="left">
     <a href="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamshinde123)](https://git.io/streak-stats)">
@@ -34,11 +34,14 @@ Statistics | Data Visualization | Machine Learning | Deep Learning | Data Struct
 
 <p align="left">
 <a href="https://github.com/shivamshinde123/github-readme-stats"><img alt="Shivam Shinde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamshinde123&show_icons=true&count_private=true&theme=white&hide_border=false&bg_color=ffffff" /></a>
-</p>
+</p> -->
 
 <!-- <p align="left">
 <a href="https://github.com/shivamshinde123/github-readme-stats"><img alt="Shivam Shinde's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshinde123&langs_count=8&count_private=true&layout=compact&theme=white&hide_border=false&bg_color=ffffff" /></a>
 </p> -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivamshinde123&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- <p align="left">
 <a href="https://github.com/shivamshinde123/github-readme-activity-graph"><img alt="Shivam Shinde's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivamshinde123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
