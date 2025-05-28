@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- ⚡ Fun fact I like to ride my bicycle, play games and listen to songs. Recently, I have been hooked on reading the fantasy novels (Some of the favorites authors: Brandon Sanderson, JK Rowling)
+- ⚡ Fun fact I like to ride my bicycle, play games and listen to songs. Recently, I have been hooked on reading the fantasy novels (Some of the favorites authors: Brandon Sanderson, Robin Hobb, JK Rowling)
  
 - 💬 Ask me about making attractive visualizations,ML, DL and other tech related stuff.
 
