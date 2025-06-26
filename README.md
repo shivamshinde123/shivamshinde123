@@ -1,8 +1,9 @@
  # <a href="http://shivamdshinde.com/">Shivam Dattatray Shinde</a> :smiley:
- 
+ <!--
 <p align="center">
   <img src="Shivam Shinde2.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
+-->
 
  ## 🙋‍♂️ About Me
 
@@ -10,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- ⚡ Fun fact I like to ride my bicycle, play games and listen to songs. Recently, I have been hooked on reading the fantasy novels (Some of the favorites authors: Brandon Sanderson, Robin Hobb, Terry Pratchett, JK Rowling)
+- ⚡ Fun fact I like to ride my bicycle, play games and listen to songs. Recently, I have been hooked on reading the fantasy novels (Some of the favorites authors: Brandon Sanderson, Robin Hobb, Terry Pratchett, Pierce Brown, JK Rowling)
  
-- 💬 Ask me about making attractive visualizations,ML, DL and other tech related stuff.
+- 💬 Ask me about making attractive visualizations, ML, DL and other tech related stuff (You could also ask me to recommend you a fantasy novel).
 
 ## Topics 
 
@@ -20,9 +21,38 @@ Statistics | Data Visualization | Machine Learning | Deep Learning | Data Struct
 
 
 ## Tech & Tools Preference 🧰
+<!--
+<img src = "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">  <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white"> <img src = "https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src = "https://img.shields.io/badge/-Matplotlib-FF6666?style=flat&logoColor=white"> <img src = "https://img.shields.io/badge/-Seaborn-5A20CB?style=flat&logoColor=white"> <img src = "https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-DVC-945DD6?style=flat&logo=DVC&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"><img src = "https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"> <img src = "https://img.shields.io/badge/-Pydantic-000000?style=flat&logoColor=white"> <img src="http://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=Power BI&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src = "https://img.shields.io/badge/-Javascript-013243?style=flat&logo=NumPy&logoColor=white"> -->
 
-<img src = "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">  <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white"> <img src = "https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src = "https://img.shields.io/badge/-Matplotlib-FF6666?style=flat&logoColor=white"> <img src = "https://img.shields.io/badge/-Seaborn-5A20CB?style=flat&logoColor=white"> <img src = "https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-DVC-945DD6?style=flat&logo=DVC&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"><img src = "https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"> <img src = "https://img.shields.io/badge/-Pydantic-000000?style=flat&logoColor=white"> <img src="http://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=Power BI&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-
+<p align="center">
+  <!-- Programming and Data Science Tools -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=DVC&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=Power-BI&logoColor=black">
+  <img src="https://img.shields.io/badge/-Matplotlib-FF6666?style=flat&logo=Matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-Seaborn-5A20CB?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hugging Face-FFD21F?style=flat&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/-NLTK-85A95C?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenAI API-412991?style=flat&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white">
+</p>
 
 <!--## 📊 My Github Stats
 
