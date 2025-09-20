@@ -69,27 +69,30 @@ Statistics | Data Visualization | Machine Learning | Deep Learning | Data Struct
 <!-- <p align="left">
 <a href="https://github.com/shivamshinde123/github-readme-stats"><img alt="Shivam Shinde's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshinde123&langs_count=8&count_private=true&layout=compact&theme=white&hide_border=false&bg_color=ffffff" /></a>
 </p> -->
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivamshinde123&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+-->
 
 <!-- <p align="left">
 <a href="https://github.com/shivamshinde123/github-readme-activity-graph"><img alt="Shivam Shinde's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivamshinde123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p> -->
 
+<!--
 ## My LeetCode Stat
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shivamshinde123?theme=light)
-
+-->
 
 ## Latest Tech Blogs 📢
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/2" alt="Recent Article 2"> 
+<!--
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/3" alt="Recent Article 3"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/4" alt="Recent Article 4"> 
-
+-->
 <!-- ## Profile views count
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshinde123&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshinde123" /> </p> -->
 
