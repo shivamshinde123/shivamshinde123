@@ -1,123 +1,132 @@
- # <a href="http://shivamdshinde.com/">Shivam Dattatray Shinde</a> :smiley:
- <!--
-<p align="center">
-  <img src="Shivam Shinde2.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
--->
+# <a href="http://shivamdshinde.com/">Shivam Shinde</a>
 
- ## 🙋‍♂️ About Me
+📍 **Worcester, MA** | 🤖 **AI Engineer and Data Scientist** | 🎓 **MS Data Science @ WPI**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**.
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org)
+[![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logoColor=white)](https://langchain.com)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://mongodb.com)
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com)
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**.
+> Building multi-agent AI systems and LLM-powered tools that actually solve real problems. Currently deep in agentic AI, MCP servers, and full-stack ML applications.
 
-- ⚡ Fun fact I like to ride my bicycle, play games and listen to songs. Recently, I have been hooked on reading the fantasy novels (Some of the favorites authors: Brandon Sanderson, Robin Hobb, Terry Pratchett, Pierce Brown, JK Rowling)
- 
-- 💬 Ask me about making attractive visualizations, ML, DL and other tech related stuff (You could also ask me to recommend you a fantasy novel).
+---
 
-## Topics 
+## What I'm Working On
 
-Statistics | Data Visualization | Machine Learning | Deep Learning | Data Structure and Algorithms
+- 🤖 **Exploring agentic AI** -- building systems where multiple LLMs collaborate, debate, and create together
+- 🔌 **MCP tooling** -- extending AI assistants with custom protocol servers and structured tool integrations
+- 📊 **Applied ML pipelines** -- end-to-end systems from data ingestion to deployed models with real-world impact
+- ✍️ **Writing about AI and data science** -- 33+ articles with 6000+ reads on [Medium](https://medium.com/@shivamshinde92722)
 
+---
 
-## Tech & Tools Preference 🧰
-<!--
-<img src = "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">  <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white"> <img src = "https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src = "https://img.shields.io/badge/-Matplotlib-FF6666?style=flat&logoColor=white"> <img src = "https://img.shields.io/badge/-Seaborn-5A20CB?style=flat&logoColor=white"> <img src = "https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-DVC-945DD6?style=flat&logo=DVC&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"><img src = "https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"> <img src = "https://img.shields.io/badge/-Pydantic-000000?style=flat&logoColor=white"> <img src="http://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=Power BI&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src = "https://img.shields.io/badge/-Javascript-013243?style=flat&logo=NumPy&logoColor=white"> -->
+## Current Projects 🚀
 
-<p align="center">
-  <!-- Programming and Data Science Tools -->
+* 🧠 **[PR Intelligence Dashboard](https://github.com/shivamshinde123/PR-Intelligence-Dashboard-Prototype)** - Enter any public GitHub PR URL and get an instant LLM-powered report on complexity, effort, AI attribution, and review quality
+* 🦑 **[MyAnimeList MCP Server](https://github.com/shivamshinde123/MyAnimeList_MCP_Server)** - MCP server that plugs anime and manga intelligence directly into AI assistants like Claude Desktop
+* ⚡ **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** - Six specialized AI agents that argue, collaborate, and co-author full mythology universes
+* 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** - Git stops being scary when you can see every branch, merge, and commit happening live
+* 🧩 **[Custom Agent Skills](https://github.com/shivamshinde123/Custom-Agent-Skills)** - Self-contained skill modules that extend Claude, Cursor, and other AI assistants with specialized workflows
+* 🕵️ **[Fake Review Bounty Hunter](https://github.com/shivamshinde123/Fake-Review-Bounty-Hunter)** - 92% accurate fake review detector using NLP + graph-based anomaly profiling with Neo4j and LLMs
+* 🔋 **[Battery SoC Prediction](https://github.com/shivamshinde123/Battery-Features-Predictions)** - ML pipeline predicting battery State of Charge with RMSE of 0.0383 and R² of 0.953 across 30+ features
+
+### Legacy Work
+
+* 🚛 **[Scania Truck Failures Prediction](https://github.com/shivamshinde123/Scania-Truck-Failures-Prediction)** - Predictive maintenance achieving 95% accuracy and 30% fewer unexpected breakdowns
+* ☠️ **[LC50 Prediction via QSAR Models](https://github.com/shivamshinde123/Prediction-of-LC50-value-using-Quantitative-structure-activity-relationship-models---QSAR-models)** - ML web app for chemical safety assessment with 95% accuracy, reducing animal testing
+* 🎵 **[Instrument-Based Music Recommendation](https://github.com/shivamshinde123/Instrument-Based-Music-Recommendation)** - U-Net based neural network that recommends music by analyzing instrumental composition
+* 💳 **[Credit Card Fraud Detection](https://github.com/shivamshinde123/credit-card-fraud-detection2)** - 95% accurate fraud detection model built with feature engineering and optimized ML modeling
+* 🦋 **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** - 92% accurate ML web app for thyroid disease prediction built during internship at Ineuron.ai
+
+---
+
+## Tech and Tools 🧰
+
+**AI, Data Science and Analytics**
+<p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=DVC&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=Power-BI&logoColor=black">
-  <img src="https://img.shields.io/badge/-Matplotlib-FF6666?style=flat&logo=Matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/-Seaborn-5A20CB?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white">
   <img src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
   <img src="https://img.shields.io/badge/-LangChain-000000?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/-Hugging Face-FFD21F?style=flat&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/-NLTK-85A95C?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-NLTK-85A95C?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hugging Face-FFD21F?style=flat&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/-OpenAI API-412991?style=flat&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-FF6666?style=flat&logo=Matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-Seaborn-5A20CB?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=Power-BI&logoColor=black">
+  <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white">
+  <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=DVC&logoColor=white">
+</p>
+
+**Development, Infrastructure and Cloud**
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white">
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
 </p>
 
-<!--## 📊 My Github Stats
-
-<p align="left">
-    <a href="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamshinde123)](https://git.io/streak-stats)">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shivam Shinde's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamshinde123&theme=white&hide_border=false&stroke=000000&background=ffffff"/>
-    </a>
-</p>
-
-<p align="left">
-<a href="https://github.com/shivamshinde123/github-readme-stats"><img alt="Shivam Shinde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamshinde123&show_icons=true&count_private=true&theme=white&hide_border=false&bg_color=ffffff" /></a>
-</p> -->
-
-<!-- <p align="left">
-<a href="https://github.com/shivamshinde123/github-readme-stats"><img alt="Shivam Shinde's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshinde123&langs_count=8&count_private=true&layout=compact&theme=white&hide_border=false&bg_color=ffffff" /></a>
-</p> -->
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivamshinde123&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
--->
-
-<!-- <p align="left">
-<a href="https://github.com/shivamshinde123/github-readme-activity-graph"><img alt="Shivam Shinde's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivamshinde123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p> -->
-
-<!--
-## My LeetCode Stat
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/shivamshinde123?theme=light)
--->
+---
 
 ## Latest Tech Blogs 📢
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/2" alt="Recent Article 2"> 
-<!--
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/3" alt="Recent Article 3"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/4" alt="Recent Article 4"> 
--->
-<!-- ## Profile views count
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshinde123&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshinde123" /> </p> -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/0" alt="Recent Article 0">
 
-<!--
-## Profile views count
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/1" alt="Recent Article 1">
 
-<p align='left'>
-  
-![](https://komarev.com/ghpvc/?username=shivamshinde123)
-  
-</p>
--->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivamshinde92722/2" alt="Recent Article 2">
 
-##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamds92722/)](https://www.linkedin.com/in/shivamds92722/)
-[![Kaggle Badge](https://img.shields.io/badge/-shivamshinde123-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=(https://www.kaggle.com/shivamshinde123))](https://www.kaggle.com/shivamshinde123)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@ShivamS64852411-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivamS64852411)](https://twitter.com/ShivamS64852411) -->
-[![Gmail Badge](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivamshinde92722@gmail.com)](mailto:shivamshinde92722@gmail.com) 
-<!-- [![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/) -->
+---
 
+## A Few Random Facts
 
+* 🍜 Big anime fan -- ask me for a recommendation and I will send you down a rabbit hole
+* 🎬 Watches animated and comedy movies, nothing too serious
+* 📚 Currently hooked on fantasy novels -- ask me for a recommendation (Brandon Sanderson, Robin Hobb, Pierce Brown)
+* 📈 Ranked under 1000 on Kaggle
+* 💬 Happy to talk ML, LLMs, visualizations, anime, or fantasy books -- whichever you need
 
+---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+## Connect 🤝
 
-**Check the Repositories and don't forget to give a star.** 👇
+[![LinkedIn](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivamds92722/)
+[![Kaggle](https://img.shields.io/badge/-shivamshinde123-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/shivamshinde123)
+[![Gmail](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shivamshinde92722@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-shivamdshinde.com-FF5722?style=flat&logo=google-chrome&logoColor=white)](http://shivamdshinde.com/)
 
-:star: From [ShivamShinde](https://github.com/shivamshinde123)
+---
+
+**Check the repositories and don't forget to drop a star.** 👇
+
+⭐ From [ShivamShinde](https://github.com/shivamshinde123)
