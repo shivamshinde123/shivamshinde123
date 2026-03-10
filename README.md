@@ -1,6 +1,6 @@
 # <a href="http://shivamdshinde.com/">Shivam Shinde</a>
 
-📍 **Worcester, MA** | 🤖 **AI Engineer and Data Scientist** | 🎓 **MS Data Science @ WPI**
+📍 **Worcester, MA** | currently doing my MS in Data Science at WPI and figuring out how far you can push LLMs before they do something unexpected
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org)
@@ -11,16 +11,15 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://mongodb.com)
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com)
 
-> Building multi-agent AI systems and LLM-powered tools that actually solve real problems. Currently deep in agentic AI, MCP servers, and full-stack ML applications.
+> I like building things where AI actually does something useful, not just answers questions. Lately that means getting multiple LLMs to talk to each other, building MCP servers so AI assistants can reach into external tools, and sometimes just making something fun to see if it works.
 
 ---
 
-## What I'm Working On
+## What I'm Up To
 
-- 🤖 **Exploring agentic AI** -- building systems where multiple LLMs collaborate, debate, and create together
-- 🔌 **MCP tooling** -- extending AI assistants with custom protocol servers and structured tool integrations
-- 📊 **Applied ML pipelines** -- end-to-end systems from data ingestion to deployed models with real-world impact
-- ✍️ **Writing about AI and data science** -- 33+ articles with 6000+ reads on [Medium](https://medium.com/@shivamshinde92722)
+- 🤖 Deep in multi-agent AI right now -- I find it fascinating when you give LLMs different roles and let them argue with each other to produce something
+- 🔌 Building MCP servers to plug real-world data and tools into AI assistants, which is a lot more interesting than it sounds
+- ✍️ Writing about whatever I am learning on Medium -- 33+ articles so far and counting
 
 ---
 
@@ -31,16 +30,16 @@
 * ⚡ **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** - Six specialized AI agents that argue, collaborate, and co-author full mythology universes
 * 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** - Git stops being scary when you can see every branch, merge, and commit happening live
 * 🧩 **[Custom Agent Skills](https://github.com/shivamshinde123/Custom-Agent-Skills)** - Self-contained skill modules that extend Claude, Cursor, and other AI assistants with specialized workflows
-* 🕵️ **[Fake Review Bounty Hunter](https://github.com/shivamshinde123/Fake-Review-Bounty-Hunter)** - 92% accurate fake review detector using NLP + graph-based anomaly profiling with Neo4j and LLMs
+* 🕵️ **[Fake Review Bounty Hunter](https://github.com/shivamshinde123/Fake-Review-Bounty-Hunter)** - Fake review detector using NLP + graph-based anomaly profiling with Neo4j and LLMs
 * 🔋 **[Battery SoC Prediction](https://github.com/shivamshinde123/Battery-Features-Predictions)** - ML pipeline predicting battery State of Charge with RMSE of 0.0383 and R² of 0.953 across 30+ features
 
 ### Legacy Work
 
-* 🚛 **[Scania Truck Failures Prediction](https://github.com/shivamshinde123/Scania-Truck-Failures-Prediction)** - Predictive maintenance achieving 95% accuracy and 30% fewer unexpected breakdowns
-* ☠️ **[LC50 Prediction via QSAR Models](https://github.com/shivamshinde123/Prediction-of-LC50-value-using-Quantitative-structure-activity-relationship-models---QSAR-models)** - ML web app for chemical safety assessment with 95% accuracy, reducing animal testing
-* 🎵 **[Instrument-Based Music Recommendation](https://github.com/shivamshinde123/Instrument-Based-Music-Recommendation)** - U-Net based neural network that recommends music by analyzing instrumental composition
-* 💳 **[Credit Card Fraud Detection](https://github.com/shivamshinde123/credit-card-fraud-detection2)** - 95% accurate fraud detection model built with feature engineering and optimized ML modeling
-* 🦋 **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** - 92% accurate ML web app for thyroid disease prediction built during internship at Ineuron.ai
+* 🚛 **[Scania Truck Failures Prediction](https://github.com/shivamshinde123/Scania-Truck-Failures-Prediction)** - predicting failures in the Air Pressure System of Scania trucks before they actually fail
+* ☠️ **[LC50 Prediction via QSAR Models](https://github.com/shivamshinde123/Prediction-of-LC50-value-using-Quantitative-structure-activity-relationship-models---QSAR-models)** - predicting how toxic a chemical compound is using ML so fewer animals need to be tested on
+* 🎵 **[Instrument-Based Music Recommendation](https://github.com/shivamshinde123/Instrument-Based-Music-Recommendation)** - recommends songs based on what the instruments actually sound like, not just genre tags
+* 💳 **[Credit Card Fraud Detection](https://github.com/shivamshinde123/credit-card-fraud-detection2)** - classic problem, good practice -- spotting fraudulent transactions in a sea of normal ones
+* 🦋 **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** - one of the first real ML projects I shipped, built during my internship at Ineuron.ai
 
 ---
 
@@ -122,7 +121,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivamds92722/)
 [![Kaggle](https://img.shields.io/badge/-shivamshinde123-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/shivamshinde123)
-[![Gmail](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shivamshinde92722@gmail.com)
+[![Gmail](https://img.shields.io/badge/-shivamdattatrayshinde@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shivamdattatrayshinde@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-shivamdshinde.com-FF5722?style=flat&logo=google-chrome&logoColor=white)](http://shivamdshinde.com/)
 
 ---
