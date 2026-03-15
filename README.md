@@ -18,6 +18,7 @@
 ## What I'm Up To
 
 - 🤖 Deep in multi-agent AI right now -- I find it fascinating when you give LLMs different roles and let them argue with each other to produce something
+- 🔬 Built AgentML, an autonomous ML experimentation loop that runs overnight, tries new models and hyperparameters, and only keeps the changes that actually improved the metric
 - 🔌 Building MCP servers to plug real-world data and tools into AI assistants, which is a lot more interesting than it sounds
 - ✍️ Writing about whatever I am learning on Medium -- 33+ articles so far and counting
 
