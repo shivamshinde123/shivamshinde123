@@ -17,31 +17,31 @@
 
 ## What I'm Up To
 
-- 🤖 Deep in multi-agent AI right now -- I find it fascinating when you give LLMs different roles and let them argue with each other to produce something
+- 🤖 Deep in multi-agent AI right now, I find it fascinating when you give LLMs different roles and let them argue with each other to produce something
 - 🔬 Built AgentML, an autonomous ML experimentation loop that runs overnight, tries new models and hyperparameters, and only keeps the changes that actually improved the metric
 - 🔌 Building MCP servers to plug real-world data and tools into AI assistants, which is a lot more interesting than it sounds
-- ✍️ Writing about whatever I am learning on Medium -- 33+ articles so far and counting
+- ✍️ Writing about whatever I am learning on Medium, 33+ articles so far and counting
 
 ---
 
 ## Current Projects 🚀
 
-* 🤖 **[AgentML](https://github.com/shivamshinde123/AgentML-Project)** - Autonomous ML experimentation loop where an AI agent iterates on model selection and hyperparameter tuning overnight, commits the wins, and reverts the losses -- all tracked in MLflow
-* 🧠 **[PR Intelligence Dashboard](https://github.com/shivamshinde123/PR-Intelligence-Dashboard-Prototype)** - Enter any public GitHub PR URL and get an instant LLM-powered report on complexity, effort, AI attribution, and review quality
-* 🦑 **[MyAnimeList MCP Server](https://github.com/shivamshinde123/MyAnimeList_MCP_Server)** - MCP server that plugs anime and manga intelligence directly into AI assistants like Claude Desktop
-* ⚡ **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** - Six specialized AI agents that argue, collaborate, and co-author full mythology universes
-* 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** - Git stops being scary when you can see every branch, merge, and commit happening live
-* 🧩 **[Custom Agent Skills](https://github.com/shivamshinde123/Custom-Agent-Skills)** - Self-contained skill modules that extend Claude, Cursor, and other AI assistants with specialized workflows
-* 🕵️ **[Fake Review Bounty Hunter](https://github.com/shivamshinde123/Fake-Review-Bounty-Hunter)** - Fake review detector using NLP + graph-based anomaly profiling with Neo4j and LLMs
-* 🔋 **[Battery SoC Prediction](https://github.com/shivamshinde123/Battery-Features-Predictions)** - ML pipeline predicting battery State of Charge with RMSE of 0.0383 and R² of 0.953 across 30+ features
+* 🤖 **[AgentML](https://github.com/shivamshinde123/AgentML-Project)** : Autonomous ML experimentation loop where an AI agent iterates on model selection and hyperparameter tuning overnight, commits the wins, and reverts the losses -- all tracked in MLflow
+* 🧠 **[PR Intelligence Dashboard](https://github.com/shivamshinde123/PR-Intelligence-Dashboard-Prototype)** : Enter any public GitHub PR URL and get an instant LLM-powered report on complexity, effort, AI attribution, and review quality
+* 🦑 **[MyAnimeList MCP Server](https://github.com/shivamshinde123/MyAnimeList_MCP_Server)** : MCP server that plugs anime and manga intelligence directly into AI assistants like Claude Desktop
+* ⚡ **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** : Six specialized AI agents that argue, collaborate, and co-author full mythology universes
+* 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** : Git stops being scary when you can see every branch, merge, and commit happening live
+* 🧩 **[Custom Agent Skills](https://github.com/shivamshinde123/Custom-Agent-Skills)** : Self-contained skill modules that extend Claude, Cursor, and other AI assistants with specialized workflows
+* 🕵️ **[Fake Review Bounty Hunter](https://github.com/shivamshinde123/Fake-Review-Bounty-Hunter)** : Fake review detector using NLP + graph-based anomaly profiling with Neo4j and LLMs
+* 🔋 **[Battery SoC Prediction](https://github.com/shivamshinde123/Battery-Features-Predictions)** : ML pipeline predicting battery State of Charge with RMSE of 0.0383 and R² of 0.953 across 30+ features
 
 ### Legacy Work
 
-* 🚛 **[Scania Truck Failures Prediction](https://github.com/shivamshinde123/Scania-Truck-Failures-Prediction)** - predicting failures in the Air Pressure System of Scania trucks before they actually fail
-* ☠️ **[LC50 Prediction via QSAR Models](https://github.com/shivamshinde123/Prediction-of-LC50-value-using-Quantitative-structure-activity-relationship-models---QSAR-models)** - predicting how toxic a chemical compound is using ML so fewer animals need to be tested on
-* 🎵 **[Instrument-Based Music Recommendation](https://github.com/shivamshinde123/Instrument-Based-Music-Recommendation)** - recommends songs based on what the instruments actually sound like, not just genre tags
-* 💳 **[Credit Card Fraud Detection](https://github.com/shivamshinde123/credit-card-fraud-detection2)** - classic problem, good practice -- spotting fraudulent transactions in a sea of normal ones
-* 🦋 **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** - one of the first real ML projects I shipped, built during my internship at Ineuron.ai
+* 🚛 **[Scania Truck Failures Prediction](https://github.com/shivamshinde123/Scania-Truck-Failures-Prediction)** : predicting failures in the Air Pressure System of Scania trucks before they actually fail
+* ☠️ **[LC50 Prediction via QSAR Models](https://github.com/shivamshinde123/Prediction-of-LC50-value-using-Quantitative-structure-activity-relationship-models---QSAR-models)** : predicting how toxic a chemical compound is using ML so fewer animals need to be tested on
+* 🎵 **[Instrument-Based Music Recommendation](https://github.com/shivamshinde123/Instrument-Based-Music-Recommendation)** : recommends songs based on what the instruments actually sound like, not just genre tags
+* 💳 **[Credit Card Fraud Detection](https://github.com/shivamshinde123/credit-card-fraud-detection2)** : classic problem, good practice, spotting fraudulent transactions in a sea of normal ones
+* 🦋 **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** : one of the first real ML projects I shipped, built during my internship at Ineuron.ai
 
 ---
 
@@ -111,11 +111,11 @@
 
 ## A Few Random Facts
 
-* 🍜 Big anime fan -- ask me for a recommendation and I will send you down a rabbit hole
+* 🍜 Big anime fan, ask me for a recommendation and I will send you down a rabbit hole
 * 🎬 Watches animated and comedy movies, nothing too serious
-* 📚 Currently hooked on fantasy novels -- ask me for a recommendation (Brandon Sanderson, Robin Hobb, Pierce Brown)
+* 📚 Currently hooked on fantasy novels, ask me for a recommendation (Brandon Sanderson, Robin Hobb, Pierce Brown)
 * 📈 Ranked under 1000 on Kaggle
-* 💬 Happy to talk ML, LLMs, visualizations, anime, or fantasy books -- whichever you need
+* 💬 Happy to talk ML, LLMs, visualizations, anime, or fantasy books, whichever you need
 
 ---
 
