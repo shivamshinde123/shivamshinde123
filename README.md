@@ -27,7 +27,7 @@
 ## Current Projects 🚀
 
 * 🤖 **[AgentML](https://github.com/shivamshinde123/AgentML-Project)** : Autonomous ML experimentation loop where an AI agent iterates on model selection and hyperparameter tuning overnight, commits the wins, and reverts the losses, all tracked in MLflow
-* 🧠 **[PR Intelligence Dashboard](https://github.com/shivamshinde123/PR-Intelligence-Dashboard-Prototype)** : Enter any public GitHub PR URL and get an instant LLM-powered report on complexity, effort, AI attribution, and review quality
+* 🧠 **[PRLens](https://github.com/shivamshinde123/PR-Intelligence-Dashboard-Prototype)** : Enter any public GitHub PR URL and get an instant LLM-powered report on complexity, effort, AI attribution, and review quality
 * 🦑 **[MyAnimeList MCP Server](https://github.com/shivamshinde123/MyAnimeList_MCP_Server)** : MCP server that plugs anime and manga intelligence directly into AI assistants like Claude Desktop
 * ⚡ **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** : Six specialized AI agents that argue, collaborate, and co-author full mythology universes
 * 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** : Git stops being scary when you can see every branch, merge, and commit happening live
