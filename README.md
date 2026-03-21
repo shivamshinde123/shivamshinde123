@@ -5,11 +5,15 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org)
 [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logoColor=white)](https://langchain.com)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat-square&logoColor=white)](https://langchain.com)
+[![LLM Fine-tuning](https://img.shields.io/badge/-LLM%20Fine--tuning-8A2BE2?style=flat-square&logoColor=white)]()
+[![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=flat-square&logoColor=white)]()
+[![Multi--Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-20B2AA?style=flat-square&logoColor=white)]()
+[![MCP](https://img.shields.io/badge/-MCP-F5A623?style=flat-square&logoColor=white)]()
+[![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://mongodb.com)
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com)
+[![Claude Code](https://img.shields.io/badge/-Claude%20Code-CC785C?style=flat-square&logoColor=white)](https://claude.ai)
 
 > I like building things where AI actually does something useful, not just answers questions. Lately that means getting multiple LLMs to talk to each other, building MCP servers so AI assistants can reach into external tools, and sometimes just making something fun to see if it works.
 
