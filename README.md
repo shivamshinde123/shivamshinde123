@@ -26,6 +26,7 @@
 
 ## Current Projects 🚀
 
+* 🔭 **[CodeScope](https://github.com/shivamshinde123/CodeScope)** : GitHub Action that auto-generates color-coded Mermaid diagrams for pull requests so reviewers can understand the scope of changes at a glance, powered by Claude
 * 🔁 **[AutoRAGResearch](https://github.com/shivamshinde123/Auto-RAG-Research)** : Autonomous RAG pipeline optimizer that tunes chunk sizes, embedding models, and retrieval configs on its own using a closed LLM feedback loop tracked in MLflow
 * 🤖 **[AgentML](https://github.com/shivamshinde123/AgentML-Project)** : Autonomous ML experimentation loop where an AI agent iterates on model selection and hyperparameter tuning overnight, commits the wins, and reverts the losses, all tracked in MLflow
 * 🧠 **[PRLens](https://github.com/shivamshinde123/PR-Intelligence-Dashboard-Prototype)** : Enter any public GitHub PR URL and get an instant LLM-powered report on complexity, effort, AI attribution, and review quality
