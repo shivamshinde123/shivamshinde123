@@ -40,11 +40,11 @@
 * ⚡ **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** : Six specialized AI agents that argue, collaborate, and co-author full mythology universes
 * 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** : Git stops being scary when you can see every branch, merge, and commit happening live
 * 🧩 **[Custom Agent Skills](https://github.com/shivamshinde123/Custom-Agent-Skills)** : Self-contained skill modules that extend Claude, Cursor, and other AI assistants with specialized workflows
-* 🕵️ **[Fake Review Bounty Hunter](https://github.com/shivamshinde123/Fake-Review-Bounty-Hunter)** : Fake review detector using NLP + graph-based anomaly profiling with Neo4j and LLMs
-* 🔋 **[Battery SoC Prediction](https://github.com/shivamshinde123/Battery-Features-Predictions)** : ML pipeline predicting battery State of Charge with RMSE of 0.0383 and R² of 0.953 across 30+ features
 
 ### Legacy Work
 
+* 🕵️ **[Fake Review Bounty Hunter](https://github.com/shivamshinde123/Fake-Review-Bounty-Hunter)** : Fake review detector using NLP + graph-based anomaly profiling with Neo4j and LLMs
+* 🔋 **[Battery SoC Prediction](https://github.com/shivamshinde123/Battery-Features-Predictions)** : ML pipeline predicting battery State of Charge with RMSE of 0.0383 and R² of 0.953 across 30+ features
 * 🚛 **[Scania Truck Failures Prediction](https://github.com/shivamshinde123/Scania-Truck-Failures-Prediction)** : predicting failures in the Air Pressure System of Scania trucks before they actually fail
 * ☠️ **[LC50 Prediction via QSAR Models](https://github.com/shivamshinde123/Prediction-of-LC50-value-using-Quantitative-structure-activity-relationship-models---QSAR-models)** : predicting how toxic a chemical compound is using ML so fewer animals need to be tested on
 * 🎵 **[Instrument-Based Music Recommendation](https://github.com/shivamshinde123/Instrument-Based-Music-Recommendation)** : recommends songs based on what the instruments actually sound like, not just genre tags
