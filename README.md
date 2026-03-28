@@ -30,7 +30,7 @@
 
 ## Current Projects 🚀
 
-* 🕵️‍♂️ **[Claude Code Analyzer](https://github.com/shivamshinde123/Claude-Code-Analyzer)** : A full-stack analytics system that monitors Claude Code sessions locally, computes metrics, and displays interactive dashboards.
+* 🕵️‍♂️ **[AgentPulse](https://github.com/shivamshinde123/Claude-Code-Analyzer)** : A full-stack analytics system that monitors Claude Code sessions locally, computes metrics, and displays interactive dashboards.
 * 🌌 **[Shadesmar GitHub Visualizer](https://shivamshinde123.github.io/shadesmar-github-visualizer/)** : Self-contained 3D visualization of any GitHub user's repositories, repos as crystalline trees, contributors as flickering flames, all in a beautiful Shadesmar-inspired scene (from Brandon Sanderson's Stormlight Archive) built with Three.js. Just open the HTML file and enter a username!
 * 🔭 **[CodeScope](https://github.com/shivamshinde123/CodeScope)** : GitHub Action that auto-generates color-coded Mermaid diagrams for pull requests so reviewers can understand the scope of changes at a glance, powered by Claude
 * 🔁 **[AutoRAGResearch](https://github.com/shivamshinde123/Auto-RAG-Research)** : Autonomous RAG pipeline optimizer that tunes chunk sizes, embedding models, and retrieval configs on its own using a closed LLM feedback loop tracked in MLflow
