@@ -30,6 +30,8 @@
 
 ## Current Projects 🚀
 
+* 🥊 **[Adversarial-LLM-Wiki](https://github.com/shivamshinde123/adversarial-llm-wiki)** : Adversarial Wiki compiles two opposing wikis (pro and con) for any topic from your sources or autonomous web research. It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions. For example: For “remote work,” it builds pro/con wikis and debates “Should our team go fully remote?” to reveal the trade‑offs and hidden assumptions.
+It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions.
 * 🕵️‍♂️ **[AgentPulse](https://github.com/shivamshinde123/Claude-Code-Analyzer)** : A full-stack analytics system that monitors Claude Code sessions locally, computes metrics, and displays interactive dashboards.
 * 🌌 **[Shadesmar GitHub Visualizer](https://shivamshinde123.github.io/shadesmar-github-visualizer/)** : Self-contained 3D visualization of any GitHub user's repositories, repos as crystalline trees, contributors as flickering flames, all in a beautiful Shadesmar-inspired scene (from Brandon Sanderson's Stormlight Archive) built with Three.js. Just open the HTML file and enter a username!
 * 🔭 **[CodeScope](https://github.com/shivamshinde123/CodeScope)** : GitHub Action that auto-generates color-coded Mermaid diagrams for pull requests so reviewers can understand the scope of changes at a glance, powered by Claude
