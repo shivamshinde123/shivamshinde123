@@ -30,6 +30,7 @@
 
 ## Current Projects 🚀
 
+* ⌚ **[Just-5](https://github.com/shivamshinde123/Just-5)** : Just 5 mobile app beats procrastination by using a simple psychological hack: committing to just five minutes of work. The frictionless "one-tap" interface removes the resistance of starting, helping you build a consistent daily habit. Whether you stop after five minutes or find your flow and keep going, the app rewards your commitment with streaks and milestones.
 * 🥊 **[Adversarial-LLM-Wiki](https://github.com/shivamshinde123/adversarial-llm-wiki)** : Adversarial Wiki compiles two opposing wikis (pro and con) for any topic from your sources or autonomous web research. It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions. For example: For “remote work,” it builds pro/con wikis and debates “Should our team go fully remote?” to reveal the trade‑offs and hidden assumptions.
 It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions.
 * 🕵️‍♂️ **[AgentPulse](https://github.com/shivamshinde123/Claude-Code-Analyzer)** : A full-stack analytics system that monitors Claude Code sessions locally, computes metrics, and displays interactive dashboards.
