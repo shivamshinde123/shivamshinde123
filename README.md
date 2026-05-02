@@ -30,7 +30,6 @@
 
 ## Current Projects 🚀
 
-* ⌚ **[Just-5](https://github.com/shivamshinde123/Just-5)** : Just 5 mobile app beats procrastination by using a simple psychological hack: committing to just five minutes of work. The frictionless "one-tap" interface removes the resistance of starting, helping you build a consistent daily habit. Whether you stop after five minutes or find your flow and keep going, the app rewards your commitment with streaks and milestones.
 * 🥊 **[Adversarial-LLM-Wiki](https://github.com/shivamshinde123/adversarial-llm-wiki)** : Adversarial Wiki compiles two opposing wikis (pro and con) for any topic from your sources or autonomous web research. It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions. For example: For “remote work,” it builds pro/con wikis and debates “Should our team go fully remote?” to reveal the trade‑offs and hidden assumptions.
 It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions.
 * 🕵️‍♂️ **[AgentPulse](https://github.com/shivamshinde123/Claude-Code-Analyzer)** : A full-stack analytics system that monitors Claude Code sessions locally, computes metrics, and displays interactive dashboards.
@@ -54,6 +53,9 @@ It debates them on demand, surfacing each side’s hidden assumptions and guidin
 * 💳 **[Credit Card Fraud Detection](https://github.com/shivamshinde123/credit-card-fraud-detection2)** : classic problem, good practice, spotting fraudulent transactions in a sea of normal ones
 * 🦋 **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** : one of the first real ML projects I shipped, built during my internship at Ineuron.ai
 
+## Weekend Fun Projects 🚀
+* ⌚ **[Just-5](https://github.com/shivamshinde123/Just-5)** : Just 5 mobile app beats procrastination by using a simple psychological hack: committing to just five minutes of work. The frictionless "one-tap" interface removes the resistance of starting, helping you build a consistent daily habit. Whether you stop after five minutes or find your flow and keep going, the app rewards your commitment with streaks and milestones.
+* 👷‍♀️ **[Should I Build This?](https://github.com/shivamshinde123?tab=repositories)**: It is a mobile app where you describe a project idea in plain English and get back a brutally honest, structured analysis. Two lenses: Builder View (should I build this as a side project?) and Investor View (could I pitch this?). Each report ends with a verdict and gets a shareable link.
 ---
 
 ## Tech and Tools 🧰
