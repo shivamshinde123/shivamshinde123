@@ -33,14 +33,12 @@
 * 🥊 **[Adversarial-LLM-Wiki](https://github.com/shivamshinde123/adversarial-llm-wiki)** : Adversarial Wiki compiles two opposing wikis (pro and con) for any topic from your sources or autonomous web research. It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions. For example: For “remote work,” it builds pro/con wikis and debates “Should our team go fully remote?” to reveal the trade‑offs and hidden assumptions.
 It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions.
 * 🕵️‍♂️ **[AgentPulse](https://github.com/shivamshinde123/Claude-Code-Analyzer)** : A full-stack analytics system that monitors Claude Code sessions locally, computes metrics, and displays interactive dashboards.
-* 🌌 **[Shadesmar GitHub Visualizer](https://shivamshinde123.github.io/shadesmar-github-visualizer/)** : Self-contained 3D visualization of any GitHub user's repositories, repos as crystalline trees, contributors as flickering flames, all in a beautiful Shadesmar-inspired scene (from Brandon Sanderson's Stormlight Archive) built with Three.js. Just open the HTML file and enter a username!
 * 🔭 **[CodeScope](https://github.com/shivamshinde123/CodeScope)** : GitHub Action that auto-generates color-coded Mermaid diagrams for pull requests so reviewers can understand the scope of changes at a glance, powered by Claude
 * 🔁 **[AutoRAGResearch](https://github.com/shivamshinde123/Auto-RAG-Research)** : Autonomous RAG pipeline optimizer that tunes chunk sizes, embedding models, and retrieval configs on its own using a closed LLM feedback loop tracked in MLflow
 * 🤖 **[AgentML](https://github.com/shivamshinde123/AgentML-Project)** : Autonomous ML experimentation loop where an AI agent iterates on model selection and hyperparameter tuning overnight, commits the wins, and reverts the losses, all tracked in MLflow
 * 🧠 **[PRLens](https://github.com/shivamshinde123/PR-Intelligence-Dashboard-Prototype)** : Enter any public GitHub PR URL and get an instant LLM-powered report on complexity, effort, AI attribution, and review quality
 * 🦑 **[MyAnimeList MCP Server](https://github.com/shivamshinde123/MyAnimeList_MCP_Server)** : MCP server that plugs anime and manga intelligence directly into AI assistants like Claude Desktop
 * ⚡ **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** : Six specialized AI agents that argue, collaborate, and co-author full mythology universes
-* 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** : Git stops being scary when you can see every branch, merge, and commit happening live
 * 🧩 **[Custom Agent Skills](https://github.com/shivamshinde123/Custom-Agent-Skills)** : Self-contained skill modules that extend Claude, Cursor, and other AI assistants with specialized workflows
 
 ### Legacy Work
@@ -56,6 +54,8 @@ It debates them on demand, surfacing each side’s hidden assumptions and guidin
 ## Weekend Fun Projects 🚀
 * ⌚ **[Just-5](https://github.com/shivamshinde123/Just-5)** : Just 5 mobile app beats procrastination by using a simple psychological hack: committing to just five minutes of work. The frictionless "one-tap" interface removes the resistance of starting, helping you build a consistent daily habit. Whether you stop after five minutes or find your flow and keep going, the app rewards your commitment with streaks and milestones.
 * 👷‍♀️ **[Should I Build This?](https://github.com/shivamshinde123?tab=repositories)**: It is a mobile app where you describe a project idea in plain English and get back a brutally honest, structured analysis. Two lenses: Builder View (should I build this as a side project?) and Investor View (could I pitch this?). Each report ends with a verdict and gets a shareable link.
+* 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** : Git stops being scary when you can see every branch, merge, and commit happening live
+* 🌌 **[Shadesmar GitHub Visualizer](https://shivamshinde123.github.io/shadesmar-github-visualizer/)** : Self-contained 3D visualization of any GitHub user's repositories, repos as crystalline trees, contributors as flickering flames, all in a beautiful Shadesmar-inspired scene (from Brandon Sanderson's Stormlight Archive) built with Three.js. Just open the HTML file and enter a username!
 ---
 
 ## Tech and Tools 🧰
