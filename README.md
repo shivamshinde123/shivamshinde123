@@ -1,4 +1,4 @@
-# <a href="http://shivamdshinde.com/">Shivam Shinde</a>
+# <a href="https://www.shivamdshinde.com/">Shivam Shinde</a>
 
 📍 **Worcester, MA** | currently doing my MS in Data Science at WPI and figuring out how far you can push LLMs before they do something unexpected
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Current Projects 🚀
+## Current Projects 
 
 * 🥊 **[Adversarial-LLM-Wiki](https://github.com/shivamshinde123/adversarial-llm-wiki)** : Adversarial Wiki compiles two opposing wikis (pro and con) for any topic from your sources or autonomous web research. It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions. For example: For “remote work,” it builds pro/con wikis and debates “Should our team go fully remote?” to reveal the trade‑offs and hidden assumptions.
 It debates them on demand, surfacing each side’s hidden assumptions and guiding decisions with iterative clarifying questions.
@@ -41,7 +41,7 @@ It debates them on demand, surfacing each side’s hidden assumptions and guidin
 * ⚡ **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** : Six specialized AI agents that argue, collaborate, and co-author full mythology universes
 * 🧩 **[Custom Agent Skills](https://github.com/shivamshinde123/Custom-Agent-Skills)** : Self-contained skill modules that extend Claude, Cursor, and other AI assistants with specialized workflows
 
-### Legacy Work
+## Legacy Projects
 
 * 🕵️ **[Fake Review Bounty Hunter](https://github.com/shivamshinde123/Fake-Review-Bounty-Hunter)** : Fake review detector using NLP + graph-based anomaly profiling with Neo4j and LLMs
 * 🔋 **[Battery SoC Prediction](https://github.com/shivamshinde123/Battery-Features-Predictions)** : ML pipeline predicting battery State of Charge with RMSE of 0.0383 and R² of 0.953 across 30+ features
@@ -51,7 +51,7 @@ It debates them on demand, surfacing each side’s hidden assumptions and guidin
 * 💳 **[Credit Card Fraud Detection](https://github.com/shivamshinde123/credit-card-fraud-detection2)** : classic problem, good practice, spotting fraudulent transactions in a sea of normal ones
 * 🦋 **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** : one of the first real ML projects I shipped, built during my internship at Ineuron.ai
 
-## Weekend Fun Projects 🚀
+## Weekend Fun Projects 
 * ⌚ **[Just-5](https://github.com/shivamshinde123/Just-5)** : Just 5 mobile app beats procrastination by using a simple psychological hack: committing to just five minutes of work. The frictionless "one-tap" interface removes the resistance of starting, helping you build a consistent daily habit. Whether you stop after five minutes or find your flow and keep going, the app rewards your commitment with streaks and milestones.
 * 👷‍♀️ **[Should I Build This?](https://github.com/shivamshinde123?tab=repositories)**: It is a mobile app where you describe a project idea in plain English and get back a brutally honest, structured analysis. Two lenses: Builder View (should I build this as a side project?) and Investor View (could I pitch this?). Each report ends with a verdict and gets a shareable link.
 * 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** : Git stops being scary when you can see every branch, merge, and commit happening live
@@ -137,7 +137,7 @@ It debates them on demand, surfacing each side’s hidden assumptions and guidin
 [![LinkedIn](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivamds92722/)
 [![Kaggle](https://img.shields.io/badge/-shivamshinde123-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/shivamshinde123)
 [![Gmail](https://img.shields.io/badge/-shivamdattatrayshinde@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shivamdattatrayshinde@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-shivamdshinde.com-FF5722?style=flat&logo=google-chrome&logoColor=white)](http://shivamdshinde.com/)
+[![Portfolio](https://img.shields.io/badge/-shivamdshinde.com-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.shivamdshinde.com/)
 
 ---
 
