@@ -52,8 +52,10 @@ It debates them on demand, surfacing each side’s hidden assumptions and guidin
 * 🦋 **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** : one of the first real ML projects I shipped, built during my internship at Ineuron.ai
 
 ## Weekend Fun Projects 
+<!--
 * 👷‍♀️ **[Should I Build This?](https://github.com/shivamshinde123?tab=repositories)**: It is a mobile app where you describe a project idea in plain English and get back a brutally honest, structured analysis. Two lenses: Builder View (should I build this as a side project?) and Investor View (could I pitch this?). Each report ends with a verdict and gets a shareable link.
 * ⌚ **[Just-5](https://github.com/shivamshinde123/Just-5)** : Just 5 mobile app beats procrastination by using a simple psychological hack: committing to just five minutes of work. The frictionless "one-tap" interface removes the resistance of starting, helping you build a consistent daily habit. Whether you stop after five minutes or find your flow and keep going, the app rewards your commitment with streaks and milestones.
+-->
 * 🎮 **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** : Git stops being scary when you can see every branch, merge, and commit happening live
 * 🌌 **[Shadesmar GitHub Visualizer](https://shivamshinde123.github.io/shadesmar-github-visualizer/)** : Self-contained 3D visualization of any GitHub user's repositories, repos as crystalline trees, contributors as flickering flames, all in a beautiful Shadesmar-inspired scene (from Brandon Sanderson's Stormlight Archive) built with Three.js. Just open the HTML file and enter a username!
 ---
