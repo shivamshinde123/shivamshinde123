@@ -1,4 +1,4 @@
-# <a href="https://www.shivamdshinde.com/">Shivam Shinde</a>
+# <a href="[https://www.shivamdshinde.com/](https://portfolio-shivam-shindes-projects-acb7e671.vercel.app/)">Shivam Shinde</a>
 
 📍 **Worcester, MA** | currently doing my MS in Data Science at WPI and figuring out how far you can push LLMs before they do something unexpected
 
@@ -139,7 +139,7 @@ It debates them on demand, surfacing each side’s hidden assumptions and guidin
 [![LinkedIn](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivamds92722/)
 [![Kaggle](https://img.shields.io/badge/-shivamshinde123-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/shivamshinde123)
 [![Gmail](https://img.shields.io/badge/-shivamdattatrayshinde@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shivamdattatrayshinde@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-shivamdshinde.com-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.shivamdshinde.com/)
+[![Portfolio](https://img.shields.io/badge/-shivamdshinde.com-FF5722?style=flat&logo=google-chrome&logoColor=white)]([https://www.shivamdshinde.com/](https://portfolio-shivam-shindes-projects-acb7e671.vercel.app/))
 
 ---
 
