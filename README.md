@@ -137,9 +137,7 @@
 | **[Mythology Worldbuilding Pantheon](https://github.com/shivamshinde123/Mythology-Worldbuilding-Pantheon)** | Six specialized AI agents that argue, collaborate, and co-author entire mythology universes. | <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,py" height="24" /> |
 | **[Custom Agent Skills](https://github.com/shivamshinde123/Custom-Agent-Skills)** | Self-contained skill modules that extend Claude, Cursor, and other AI assistants with specialized workflows. | <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,md" height="24" /> |
 
-<details>
-<summary><b>Weekend Fun Projects</b></summary>
-<br/>
+### Weekend Fun Projects
 
 | Project | What it does | Stack |
 |:--|:--|:--|
@@ -150,11 +148,8 @@
 | **[Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground)** | Git stops being scary when you can watch every branch, merge, and commit happen live. | <img src="https://go-skill-icons.vercel.app/api/icons?i=js,git" height="24" /> |
 | **[Shadesmar GitHub Visualizer](https://shivamshinde123.github.io/shadesmar-github-visualizer/)** | Self-contained 3D visualization of any GitHub user's repos — repos as crystalline trees, contributors as flickering flames, all in a Shadesmar-inspired scene (Sanderson's *Stormlight Archive*). Open the HTML, type a username. | <img src="https://go-skill-icons.vercel.app/api/icons?i=threejs,html" height="24" /> |
 
-</details>
 
-<details>
-<summary><b>Legacy Projects</b></summary>
-<br/>
+### Legacy Projects
 
 | Project | What it does | Stack |
 |:--|:--|:--|
@@ -165,9 +160,6 @@
 | **[Instrument-Based Music Recommendation](https://github.com/shivamshinde123/Instrument-Based-Music-Recommendation)** | Recommends songs by what the instruments actually sound like, not just genre tags. | <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,py" height="24" /> |
 | **[Credit Card Fraud Detection](https://github.com/shivamshinde123/credit-card-fraud-detection2)** | Classic problem, good practice — spotting fraudulent transactions in a sea of normal ones. | <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas" height="24" /> |
 | **[Thyroid Disease Detection](https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship)** | One of the first real ML projects I shipped, built during my internship at Ineuron.ai. | <img src="https://go-skill-icons.vercel.app/api/icons?i=py,flask" height="24" /> |
-
-</details>
-
 ---
 
 ## GitHub Activity
