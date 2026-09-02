@@ -74,7 +74,7 @@
 <!-- <sub>Also working with **XGBoost**, **DVC**, and **Power BI** — no icon exists for these yet.</sub> -->
 
 ---
-
+<!--
 ## Skills
 
 | Area | What I work on |
@@ -87,7 +87,7 @@
 | **Analytics** | Data analysis, data mining, data visualization, root cause analysis, A/B style experiment tracking |
 
 ---
-
+-->
 ## Certifications
 
 <div align="center">
