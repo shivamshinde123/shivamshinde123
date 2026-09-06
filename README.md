@@ -22,8 +22,9 @@
 </div>
 
 ---
-
+<!--
 > I like building things where AI actually **does** something useful, not just answers questions. Lately that means getting multiple LLMs to talk to each other, building MCP servers so AI assistants can reach into external tools, and sometimes just making something fun to see if it works.
+-->
 
 ## What I'm Up To
 
