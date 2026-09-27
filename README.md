@@ -142,6 +142,7 @@
 
 | Project | What it does | Stack |
 |:--|:--|:--|
+| **[Probably This way](https://github.com/shivamshinde123/ProbablyThisWay)** | ProbablyThisWay is a map-first hiking decision-support experiment built to explore TypeSafe AI's Jev model. Search for a trail, analyze its mapped route alternatives against current conditions, and watch the recommendation play out on interactive 3D terrain. | <img src="https://go-skill-icons.vercel.app/api/icons?i=react,typescript" height="24" /> |
 | **[Job Tracker Dashboard on AWS](https://github.com/shivamshinde123/Job-Tracker-Automation-Using-AWS)** | Serverless pipeline that reads Gmail every night, uses Claude on Bedrock to classify and extract structured data from job-application emails, and feeds a QuickSight dashboard. No servers, fully automated end to end. | <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,claude,py" height="24" /> |
 | **[Between the Lines](https://github.com/shivamshinde123/between-the-lines)** | A quiet personal reading space — track books, write thoughts as you move through them, and notice how your voice shifts over time. | <img src="https://go-skill-icons.vercel.app/api/icons?i=react,supabase" height="24" /> |
 | **[Should I Build This?](https://github.com/shivamshinde123?tab=repositories)** | Mobile app: describe a project idea in plain English, get back a brutally honest structured analysis through two lenses — Builder View and Investor View — ending in a verdict with a shareable link. | <img src="https://go-skill-icons.vercel.app/api/icons?i=react,claude" height="24" /> |
