@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=180&section=header&text=Shivam%20Shinde&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Science%20%C2%B7%20LLMs%20%C2%B7%20Agentic%20Systems&descAlignY=56&descSize=18" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=180&section=header&text=Shivam%20Shinde&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Science%20%C2%B7%20LLMs%20%C2%B7%20Agentic%20Systems&descAlignY=56&descSize=18" width="100%" />
 
 <a href="https://portfolio-shivam-shindes-projects-acb7e671.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=MS+Data+Science+%40+WPI;Building+multi-agent+LLM+systems;Writing+MCP+servers+for+AI+assistants;Seeing+how+far+LLMs+bend+before+they+break" alt="Typing SVG" />
-</a>
+</a> -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 <br/>
 
