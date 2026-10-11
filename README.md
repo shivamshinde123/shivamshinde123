@@ -36,6 +36,7 @@ A collection of projects I've built, experiments I've tried, and ideas I've take
 
 Not everything needs to be a serious engineering project. Sometimes I just want to see if an idea works.
 
+- 🦉 [Rurinagi](https://github.com/shivamshinde123/Rurinagi) - Rurinagi is a private, offline-first Windows desktop app for choosing one meaningful task, focusing on it, taking a deliberate break, and reviewing the day.
 - 🧭 [Probably This Way](https://github.com/shivamshinde123/ProbablyThisWay) - Hiking decision assistant combining Jev, live conditions, and interactive 3D terrain.
 - 📬 [Job Tracker Dashboard on AWS](https://github.com/shivamshinde123/Job-Tracker-Automation-Using-AWS) - Serverless pipeline transforming job-application emails into automated analytics.
 - 🪶 [Between the Lines](https://github.com/shivamshinde123/between-the-lines) - Personal reading journal for books, reflections, and changing perspectives.
