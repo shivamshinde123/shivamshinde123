@@ -20,6 +20,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/shivamds92722/), or [d
 
 A collection of projects I've built, experiments I've tried, and ideas I've taken a little too far.
 
+- 🔭 [Whatstir](https://github.com/shivamshinde123/whatstir) - Explores YC startups by sector and the problems they solve, through a chat that cites real companies, remembers follow-ups, and searches the web when the data runs out.
 - 🎹 [tunearag-python](https://github.com/shivamshinde123/tunarag-python) - TunaRAG is a Python package for tuning LangChain, LangGraph, and Google ADK RAG pipelines to balance answer quality, cost, and latency.
 - 🕸️ [Personal Knowledge Graph Agent](https://github.com/shivamshinde123/personal-knowledge-graph-agent) - Privacy-first local AI agent connecting personal data sources into a searchable knowledge graph.
 - 🥊 [Adversarial LLM Wiki](https://github.com/shivamshinde123/adversarial-llm-wiki) - Builds opposing knowledge bases and lets AI agents debate both sides of a topic.
