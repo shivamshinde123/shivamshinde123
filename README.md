@@ -22,11 +22,11 @@ A collection of projects I've built, experiments I've tried, and ideas I've take
 
 - 🫥 [Unseencue](https://github.com/shivamshinde123/unseencue) - A teleprompter for Windows and Mac that sits right under your webcam and stays out of your screen recordings, with voice follow, head follow, and Markdown scripts. [Website](https://shivamshinde123.github.io/unseencue/)
 - 🔭 [Whatstir](https://github.com/shivamshinde123/whatstir) - Explores YC startups by sector and the problems they solve, through a chat that cites real companies, remembers follow-ups, and searches the web when the data runs out.
-- 🎹 [tunearag-python](https://github.com/shivamshinde123/tunarag-python) - TunaRAG is a Python package for tuning LangChain, LangGraph, and Google ADK RAG pipelines to balance answer quality, cost, and latency.
+- 🎹 [tunearag-python](https://github.com/shivamshinde123/tunarag-python) - TunaRAG is a Python package for tuning LangChain, LangGraph, and Google ADK RAG pipelines to balance answer quality, cost, and latency. [Website](https://shivamshinde123.github.io/tunarag-python/)
 - 🕸️ [Personal Knowledge Graph Agent](https://github.com/shivamshinde123/personal-knowledge-graph-agent) - Privacy-first local AI agent connecting personal data sources into a searchable knowledge graph.
 - 🥊 [Adversarial LLM Wiki](https://github.com/shivamshinde123/adversarial-llm-wiki) - Builds opposing knowledge bases and lets AI agents debate both sides of a topic.
 - 🩻 [AgentPulse](https://github.com/shivamshinde123/Claude-Code-Analyzer) - Local analytics dashboard that reveals what's happening inside Claude Code sessions.
-- 🧬 [CodeScope](https://github.com/shivamshinde123/CodeScope) - Automatically generates color-coded Mermaid diagrams to visualize pull-request changes.
+- 🧬 [CodeScope](https://github.com/shivamshinde123/CodeScope) - Automatically generates color-coded Mermaid diagrams to visualize pull-request changes. [Website](https://shivamshinde123.github.io/CodeScope/)
 - 🎛️ [AutoRAGResearch](https://github.com/shivamshinde123/Auto-RAG-Research) - Autonomous RAG optimizer that experiments with chunking, embeddings, and retrieval configurations.
 - 🧫 [AgentML](https://github.com/shivamshinde123/AgentML-Project) - Autonomous ML experimentation agent that tests configurations and retains improvements.
 - 🧐 [PRLens](https://github.com/shivamshinde123/PR-Intelligence-Dashboard-Prototype) - LLM-powered analysis of pull-request complexity, effort, and review quality.
@@ -38,13 +38,13 @@ A collection of projects I've built, experiments I've tried, and ideas I've take
 
 Not everything needs to be a serious engineering project. Sometimes I just want to see if an idea works.
 
-- 🦉 [Rurinagi](https://github.com/shivamshinde123/Rurinagi) - Rurinagi is a private, offline-first Windows desktop app for choosing one meaningful task, focusing on it, taking a deliberate break, and reviewing the day.
+- 🦉 [Rurinagi](https://github.com/shivamshinde123/Rurinagi) - Rurinagi is a private, offline-first Windows desktop app for choosing one meaningful task, focusing on it, taking a deliberate break, and reviewing the day. [Website](https://shivamshinde123.github.io/Rurinagi/)
 - 🧭 [Probably This Way](https://github.com/shivamshinde123/ProbablyThisWay) - Hiking decision assistant combining Jev, live conditions, and interactive 3D terrain.
 - 📬 [Job Tracker Dashboard on AWS](https://github.com/shivamshinde123/Job-Tracker-Automation-Using-AWS) - Serverless pipeline transforming job-application emails into automated analytics.
-- 🪶 [Between the Lines](https://github.com/shivamshinde123/between-the-lines) - Personal reading journal for books, reflections, and changing perspectives.
+- 🪶 [Between the Lines](https://github.com/shivamshinde123/between-the-lines) - Personal reading journal for books, reflections, and changing perspectives. [Website](https://between-the-lines-app.vercel.app/)
 - 🪙 [Should I Build This?](https://github.com/shivamshinde123/should-i-build-this) - Evaluates project ideas through competing builder and investor perspectives.
 - ⏳ [Just-5](https://github.com/shivamshinde123/Just-5) - Minimal productivity app built around the psychology of starting for five minutes.
-- 🌳 [Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground) - Makes Git branches, commits, and merges visually understandable.
+- 🌳 [Git Visual Playground](https://github.com/shivamshinde123/git-visual-playground) - Makes Git branches, commits, and merges visually understandable. [Website](https://git-visual-playground.vercel.app)
 - 🔮 [Shadesmar GitHub Visualizer](https://shivamshinde123.github.io/shadesmar-github-visualizer/) - Reimagines GitHub repositories as crystalline trees in a fantasy-inspired 3D world.
 
 ### Earlier ML experiments
