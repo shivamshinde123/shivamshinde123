@@ -20,6 +20,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/shivamds92722/), or [d
 
 A collection of projects I've built, experiments I've tried, and ideas I've taken a little too far.
 
+- 🫥 [Unseencue](https://github.com/shivamshinde123/unseencue) - A teleprompter for Windows and Mac that sits right under your webcam and stays out of your screen recordings, with voice follow, head follow, and Markdown scripts. [Website](https://shivamshinde123.github.io/unseencue/)
 - 🔭 [Whatstir](https://github.com/shivamshinde123/whatstir) - Explores YC startups by sector and the problems they solve, through a chat that cites real companies, remembers follow-ups, and searches the web when the data runs out.
 - 🎹 [tunearag-python](https://github.com/shivamshinde123/tunarag-python) - TunaRAG is a Python package for tuning LangChain, LangGraph, and Google ADK RAG pipelines to balance answer quality, cost, and latency.
 - 🕸️ [Personal Knowledge Graph Agent](https://github.com/shivamshinde123/personal-knowledge-graph-agent) - Privacy-first local AI agent connecting personal data sources into a searchable knowledge graph.
