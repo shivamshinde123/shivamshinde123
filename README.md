@@ -20,6 +20,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/shivamds92722/), or [d
 
 A collection of projects I've built, experiments I've tried, and ideas I've taken a little too far.
 
+- 🔄 [Roundabout](https://github.com/shivamshinde123/Roundabout) - MCP coordination workspace where people assign tasks and independent AI agents pick up work, exchange messages and blockers, hand off ownership, and submit results for review. [Website](https://roundabout-agents.vercel.app/)
 - 🫥 [Unseencue](https://github.com/shivamshinde123/unseencue) - A teleprompter for Windows and Mac that sits right under your webcam and stays out of your screen recordings, with voice follow, head follow, and Markdown scripts. [Website](https://shivamshinde123.github.io/unseencue/)
 - 🔭 [Whatstir](https://github.com/shivamshinde123/whatstir) - Explores YC startups by sector and the problems they solve, through a chat that cites real companies, remembers follow-ups, and searches the web when the data runs out. [Website](https://shivamshinde123.github.io/whatstir/)
 - 🎹 [tunearag-python](https://github.com/shivamshinde123/tunarag-python) - TunaRAG is a Python package for tuning LangChain, LangGraph, and Google ADK RAG pipelines to balance answer quality, cost, and latency. [Website](https://shivamshinde123.github.io/tunarag-python/)
